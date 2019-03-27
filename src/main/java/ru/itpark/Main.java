@@ -9,5 +9,7 @@ public class Main {
         double[] sales = {12_000, 8_000, 15_000, 8_000};
 
 
+
+
     }
 }
