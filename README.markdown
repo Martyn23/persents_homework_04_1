@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Martyn23/persents_homework_04_1.svg?branch=master)](https://travis-ci.org/Martyn23/persents_homework_04_1)
+
 
 
 #ДЗ №1
