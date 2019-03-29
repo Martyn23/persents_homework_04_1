@@ -11,6 +11,6 @@ public class BonusService {
             if (sale > bonusLine) {
                 sum+=(sale-bonusLine)*percent;
             }
-                    return sum;
+        return sum;
     }
 }
